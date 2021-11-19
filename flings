@@ -130,7 +130,7 @@ local CloseButton = Instance.new("TextButton")
 --local BodyThrust = Instance.new("BodyThrust")
 
 ScreenGui.Name = "LLaynxFling"
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.Parent = game.CoreGui
 ScreenGui.Enabled = true
 
 TitleBar.Name = "Title Bar"
